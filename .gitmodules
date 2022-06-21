@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "QBMS"]
+	path = QBMS
+	url = https://github.com/icarda-git/qbms
+	shallow = true
+	registered = true
